@@ -5,5 +5,5 @@ This repository contains accompanying material for my master thesis
 
 
 Contents:
-- ADRs for comparing MLOps architectures, paltforms, and tools
+- ADRs for comparing MLOps architectures, platforms, and tools
 - Protocols of the conducted user tests
