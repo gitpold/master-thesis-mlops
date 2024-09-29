@@ -6,4 +6,5 @@ This repository contains accompanying material for my master thesis
 
 Contents:
 - ADRs for comparing MLOps architectures, platforms, and tools
+- List of findings and issues during practical implementation of MLOps pipeline
 - Protocols of the conducted user tests
